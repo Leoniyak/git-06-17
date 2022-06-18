@@ -2,6 +2,8 @@
 
 #the following scripts are about git
 
+# It is about a persion and his age
+
 echo " Hello, what is your name ?"
 
 read PERSON
