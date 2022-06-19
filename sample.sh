@@ -3,6 +3,7 @@
 #the following scripts are about git
 
 # It is about a persion and his age
+# My name is Leon
 
 echo " Hello, what is your name ?"
 
